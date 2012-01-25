@@ -1,7 +1,8 @@
 
 Name: app-shell-extension-core
 Group: ClearOS/Libraries
-Version: 6.2.0.beta3
+Epoch: 1
+Version: 1.0.1
 Release: 1%{dist}
 Summary: Login Shell Extension - APIs and install
 License: LGPLv3
