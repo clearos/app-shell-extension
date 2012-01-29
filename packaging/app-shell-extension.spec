@@ -15,7 +15,7 @@ Requires: app-openldap-directory-core
 Requires: app-users
 
 %description
-Login Shell Extension description...
+The Login Shell Extension app provides tools to manage SSH/shell access on the system.
 
 This package provides the core API and libraries.
 
