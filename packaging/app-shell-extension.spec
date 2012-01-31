@@ -1,26 +1,29 @@
 
-Name: app-shell-extension-core
-Group: ClearOS/Libraries
+Name: app-shell-extension
 Epoch: 1
-Version: 1.0.1
+Version: 1.0.2
 Release: 1%{dist}
 Summary: Login Shell Extension - APIs and install
 License: LGPLv3
-Packager: ClearFoundation
-Vendor: ClearFoundation
+Group: ClearOS/Libraries
 Source: app-shell-extension-%{version}.tar.gz
 Buildarch: noarch
+%description
+The Login Shell Extension app provides tools to manage SSH/shell access on the system.
+
+%package core
+Summary: Login Shell Extension - APIs and install
 Requires: app-base-core
 Requires: app-openldap-directory-core
 Requires: app-users
 
-%description
+%description core
 The Login Shell Extension app provides tools to manage SSH/shell access on the system.
 
 This package provides the core API and libraries.
 
 %prep
-%setup -q -n app-shell-extension-%{version}
+%setup -q
 %build
 
 %install
@@ -29,7 +32,7 @@ cp -r * %{buildroot}/usr/clearos/apps/shell_extension/
 
 install -D -m 0644 packaging/shell.php %{buildroot}/var/clearos/openldap_directory/extensions/10_shell.php
 
-%post
+%post core
 logger -p local6.notice -t installer 'app-shell-extension-core - installing'
 
 if [ $1 -eq 1 ]; then
@@ -40,7 +43,7 @@ fi
 
 exit 0
 
-%preun
+%preun core
 if [ $1 -eq 0 ]; then
     logger -p local6.notice -t installer 'app-shell-extension-core - uninstalling'
     [ -x /usr/clearos/apps/shell_extension/deploy/uninstall ] && /usr/clearos/apps/shell_extension/deploy/uninstall
@@ -48,7 +51,7 @@ fi
 
 exit 0
 
-%files
+%files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/shell_extension/packaging
 %exclude /usr/clearos/apps/shell_extension/tests
