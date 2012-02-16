@@ -1,13 +1,14 @@
 
 Name: app-shell-extension
 Epoch: 1
-Version: 1.0.2
+Version: 1.0.4
 Release: 1%{dist}
 Summary: Login Shell Extension - APIs and install
 License: LGPLv3
 Group: ClearOS/Libraries
 Source: app-shell-extension-%{version}.tar.gz
 Buildarch: noarch
+
 %description
 The Login Shell Extension app provides tools to manage SSH/shell access on the system.
 
