@@ -1,9 +1,9 @@
 
 Name: app-shell-extension
 Epoch: 1
-Version: 1.0.10
+Version: 1.1.0
 Release: 1%{dist}
-Summary: Login Shell Extension - APIs and install
+Summary: Login Shell Extension - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Source: app-shell-extension-%{version}.tar.gz
@@ -13,7 +13,7 @@ Buildarch: noarch
 The Login Shell Extension app provides tools to manage SSH/shell access on the system.
 
 %package core
-Summary: Login Shell Extension - APIs and install
+Summary: Login Shell Extension - Core
 Requires: app-base-core
 Requires: app-openldap-directory-core
 Requires: app-users
