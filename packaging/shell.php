@@ -3,9 +3,9 @@
 /**
  * Login shell OpenLDAP user extension.
  *
- * @category   Apps
- * @package    Shell_Extension
- * @subpackage Configuration
+ * @category   apps
+ * @package    shell-extension
+ * @subpackage configuration
  * @author     ClearFoundation <developer@clearfoundation.com>
  * @copyright  2011 ClearFoundation
  * @license    http://www.gnu.org/copyleft/lgpl.html GNU Lesser General Public License version 3 or later
