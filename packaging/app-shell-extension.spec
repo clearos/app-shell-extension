@@ -1,7 +1,7 @@
 
 Name: app-shell-extension
 Epoch: 1
-Version: 1.1.0
+Version: 1.6.0
 Release: 1%{dist}
 Summary: Login Shell Extension - Core
 License: LGPLv3
@@ -55,7 +55,6 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/shell_extension/packaging
-%exclude /usr/clearos/apps/shell_extension/tests
 %dir /usr/clearos/apps/shell_extension
 /usr/clearos/apps/shell_extension/deploy
 /usr/clearos/apps/shell_extension/language
