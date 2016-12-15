@@ -19,7 +19,7 @@ $app['description'] = lang('shell_extension_app_description');
 
 $app['name'] = lang('shell_extension_app_name');
 $app['category'] = lang('base_category_system');
-$app['subcategory'] = lang('base_subcategory_accounts_manager');
+$app['subcategory'] = lang('base_subcategory_account_manager');
 $app['menu_enabled'] = FALSE;
 
 /////////////////////////////////////////////////////////////////////////////
