@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
+$lang['shell_extension_app_name'] = 'Login Shell Estyniad';
+$lang['shell_extension_app_description'] = 'Mae&#39;r app Mewngofnodi Shell Estyniad yn darparu offer i reoli mynediad SSH / cregyn ar y system.';
+$lang['shell_extension_login_shell'] = 'login Shell';
 $lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_login_shell_invalid'] = 'cragen mewngofnodi yn annilys';
