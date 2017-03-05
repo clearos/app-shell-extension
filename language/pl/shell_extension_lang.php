@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Zaloguj Shell Extension';
+$lang['shell_extension_app_description'] = 'Aplikacja Logowanie Shell Extension dostarcza narzędzi do zarządzania dostępem SSH / Shell na system.';
+$lang['shell_extension_login_shell'] = 'zaloguj Shell';
+$lang['shell_extension_shell'] = 'Muszla';
+$lang['shell_extension_login_shell_invalid'] = 'Logowanie powłoka jest nieprawidłowa';
