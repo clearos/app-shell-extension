@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Prisijungti apvalkalo plėtinį';
+$lang['shell_extension_app_description'] = 'Prisijungimo apvalkalo plėtinį programa suteikia įrankius valdyti SSH / shell prieiga sistemoje.';
+$lang['shell_extension_login_shell'] = 'prisijungti Shell';
+$lang['shell_extension_shell'] = 'apvalkalas';
+$lang['shell_extension_login_shell_invalid'] = 'Vartotojas apvalkalas yra neteisingas';
