@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'ورود شل فرمت';
+$lang['shell_extension_app_description'] = 'برنامه ورود به شل فرمت فراهم می کند ابزار مدیریت دسترسی SSH / پوسته بر روی سیستم.';
+$lang['shell_extension_login_shell'] = 'ورود شل';
+$lang['shell_extension_shell'] = 'پوسته';
+$lang['shell_extension_login_shell_invalid'] = 'پوسته ورود نامعتبر است';
