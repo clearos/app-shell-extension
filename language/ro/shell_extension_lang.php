@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Conectare Shell Extension';
+$lang['shell_extension_app_description'] = 'Aplicația de conectare Shell Extension oferă instrumente pentru a gestiona accesul SSH / shell pe sistem.';
+$lang['shell_extension_login_shell'] = 'conectare Shell';
+$lang['shell_extension_shell'] = 'Coajă';
+$lang['shell_extension_login_shell_invalid'] = 'Logare shell este nevalid';
