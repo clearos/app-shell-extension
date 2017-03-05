@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Kirjaudu Shell Extension';
+$lang['shell_extension_app_description'] = 'Sisäänkirjautumiskuoreen Extension sovellus tarjoaa työkaluja hallita SSH / shell järjestelmään.';
+$lang['shell_extension_login_shell'] = 'sisäänkirjautumiskuorta';
+$lang['shell_extension_shell'] = 'Kuori';
+$lang['shell_extension_login_shell_invalid'] = 'Tulo kuori ei kelpaa';
