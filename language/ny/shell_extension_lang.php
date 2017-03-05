@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Kulowa Nkhono Extension';
+$lang['shell_extension_app_description'] = 'The app Malowedwe Nkhono Extension mabuku okuthandizani kugwiritsa ntchito mwayi SSH / chipolopolo pa dongosolo.';
+$lang['shell_extension_login_shell'] = 'kulowa Nkhono';
+$lang['shell_extension_shell'] = 'chipolopolo';
+$lang['shell_extension_login_shell_invalid'] = 'Malowedwe chipolopolo silololedwa';
