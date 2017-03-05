@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'เข้าสู่ระบบส่วนขยายของเชลล์';
+$lang['shell_extension_app_description'] = 'แอปพลิเคเข้าสู่ระบบส่วนขยายเชลล์ให้เครื่องมือในการจัดการการเข้าถึง SSH / เปลือกในระบบ';
+$lang['shell_extension_login_shell'] = 'เปลือกเข้าสู่ระบบ';
+$lang['shell_extension_shell'] = 'เปลือก';
+$lang['shell_extension_login_shell_invalid'] = 'เข้าสู่ระบบเปลือกไม่ถูกต้อง';
