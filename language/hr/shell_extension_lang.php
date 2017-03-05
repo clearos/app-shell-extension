@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Prijavi se ljuska produžetak';
+$lang['shell_extension_app_description'] = 'Login Shell Extension aplikacija pruža alate za upravljanje pristupa SSH / shell na sustavu.';
+$lang['shell_extension_login_shell'] = 'ljuska';
+$lang['shell_extension_shell'] = 'Ljuska';
+$lang['shell_extension_login_shell_invalid'] = 'Prijavi se ljuska nije važeći';
