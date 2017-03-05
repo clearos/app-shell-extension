@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Takiuru Anga Toronga';
+$lang['shell_extension_app_description'] = 'Te taupānga Takiuru Anga Extension whakarato taputapu ki te whakahaere i te uru SSH / anga i runga i te pūnaha.';
+$lang['shell_extension_login_shell'] = 'takiuru Anga';
+$lang['shell_extension_shell'] = 'anga';
+$lang['shell_extension_login_shell_invalid'] = 'He muhu anga takiuru';
