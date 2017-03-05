@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
+$lang['shell_extension_app_name'] = 'Prijava Shell Extension';
+$lang['shell_extension_app_description'] = 'Login Shell Extension aplikacija ponuja orodja za upravljanje dostop SSH / lupine na sistem.';
+$lang['shell_extension_login_shell'] = 'prijavi Shell';
 $lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_login_shell_invalid'] = 'Prijava lupina je neveljavna';
