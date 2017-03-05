@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Đăng nhập Shell Extension';
+$lang['shell_extension_app_description'] = 'Các ứng dụng Đăng nhập Shell Extension cung cấp các công cụ để quản lý truy cập SSH / bao trên hệ thống.';
+$lang['shell_extension_login_shell'] = 'đăng nhập Shell';
+$lang['shell_extension_shell'] = 'vỏ trứng';
+$lang['shell_extension_login_shell_invalid'] = 'bao đăng nhập không hợp lệ';
