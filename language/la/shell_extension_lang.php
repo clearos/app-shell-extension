@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Login Crusta Tractus';
+$lang['shell_extension_app_description'] = 'A app Login Crusta Tractus suggero tools ut curo ssh / in crusta obvius ratio.';
+$lang['shell_extension_login_shell'] = 'login Shell';
+$lang['shell_extension_shell'] = 'Crusta';
+$lang['shell_extension_login_shell_invalid'] = 'Login crusta est irritum';
