@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Вуруд ба Shell Тамдиди';
+$lang['shell_extension_app_description'] = 'Дар барнома Вуруд Shell Тамдиди воситаҳои таъмин идора дастрасии SSH / ниҳонӣ дар бораи системаи.';
+$lang['shell_extension_login_shell'] = 'дароед Shell';
+$lang['shell_extension_shell'] = 'пӯст';
+$lang['shell_extension_login_shell_invalid'] = 'ниҳонӣ Вуруд нодуруст аст';
