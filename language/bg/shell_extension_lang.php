@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'Влез Shell Extension';
+$lang['shell_extension_app_description'] = 'Приложението Вход Shell Extension осигурява инструменти за управление на достъп SSH / обвивка на системата.';
+$lang['shell_extension_login_shell'] = 'акаунта Shell';
+$lang['shell_extension_shell'] = 'черупка';
+$lang['shell_extension_login_shell_invalid'] = 'Вход черупка е невалиден';
