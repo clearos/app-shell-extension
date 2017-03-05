@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
-$lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_app_name'] = 'ログインシェル拡張';
+$lang['shell_extension_app_description'] = 'ログインシェル拡張アプリは、システム上のSSH /シェルアクセスを管理するためのツールを提供します。';
+$lang['shell_extension_login_shell'] = 'シェルログイン';
+$lang['shell_extension_shell'] = 'シェル';
+$lang['shell_extension_login_shell_invalid'] = 'ログインシェルが無効です。';
