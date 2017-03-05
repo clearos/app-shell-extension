@@ -1,7 +1,7 @@
 <?php
 
-$lang['shell_extension_app_name'] = 'Login Shell Extension';
-$lang['shell_extension_app_description'] = 'The Login Shell Extension app provides tools to manage SSH/shell access on the system.';
-$lang['shell_extension_login_shell'] = 'Login Shell';
+$lang['shell_extension_app_name'] = 'Logáil Síneadh Shell';
+$lang['shell_extension_app_description'] = 'Soláthraíonn an app Logáil Síneadh Shell uirlisí chun rochtain SSH / bhlaosc ar an gcóras a bhainistiú.';
+$lang['shell_extension_login_shell'] = 'logáil isteach Shell';
 $lang['shell_extension_shell'] = 'Shell';
-$lang['shell_extension_login_shell_invalid'] = 'Login shell is invalid';
+$lang['shell_extension_login_shell_invalid'] = 'Is bhlaosc Logáil neamhbhailí';
